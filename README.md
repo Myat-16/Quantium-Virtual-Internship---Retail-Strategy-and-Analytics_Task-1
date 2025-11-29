@@ -1,4 +1,4 @@
-#  Quantium Retail Analysis
+#  Project Name: Quantium Retail Analysis
 ## Business Impacts
 1. Revenue Drivers
 + Mainstream customers (especially Older Singles/Couples and Retirees) drive majority of sales
@@ -14,7 +14,7 @@
 + Stores 77 and 88 achieved significant sales increases (p=0.04 and p=0.008)
 + Limited impact on customer acquisition suggests need for complementary engagement strategies
 
-## Analytical Approach
+## Analytical Approach Details
 1. Customer Segmentation
 + Analyzed customer distribution across life stages and spending tiers (Budget/Mainstream/Premium)
 + Identified demographic trends and key revenue segments
