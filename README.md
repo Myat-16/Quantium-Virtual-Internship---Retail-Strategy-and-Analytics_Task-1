@@ -32,4 +32,4 @@
 + testing methodology with p-value significance testing
 + Evaluated sales, customer count, and transaction impacts over July 2018 - April 2019
 
-Tools: Excel, Statistical testing
+5. Tools that I used is Microsoft Excel (Data Cleaning, Pivot Tables, Formulas, Statistical Functions, Charts & Dashboards)
