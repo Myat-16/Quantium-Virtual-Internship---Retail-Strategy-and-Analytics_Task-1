@@ -1,4 +1,5 @@
 #  Project Name: Quantium Retail Analysis
+## Dataset: https://github.com/Myat-16/Quantium-Virtual-Internship---Retail-Strategy-and-Analytics_Task-1/blob/main/QVI_purchase_behaviour.csv
 ## Business Impacts
 1. Revenue Drivers
 + Mainstream customers (especially Older Singles/Couples and Retirees) drive majority of sales
